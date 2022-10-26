@@ -1,40 +1,39 @@
-# Compiled class file
-*.class
+     # Compiled class file
+     *.class
 
-# Log file
-*.log
+     # Log file
+     *.log
 
-# BlueJ files
-*.ctxt
+     # BlueJ files
+     *.ctxt
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+     # Mobile Tools for Java (J2ME)
+     .mtj.tmp/
 
-# Package Files #
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-*.iml
+     # Package Files #
+     *.jar
+     *.war
+     *.nar
+     *.ear
+     *.zip
+     *.tar.gz
+     *.rar
+     *.iml
 
-# Project gen files
-.idea
-.allure/
-.gradle/
-allure-results/
-gradle/
-build/
-bin/
-out/
-logs/
-target/
-.classpath
-.project
-.settings/org.eclipse.buildship.core.prefs
-.vscode
-/gradlew
-/gradlew.bat
-.todo
-*.properties
+     # Project gen files
+     .idea
+     .allure/
+     .gradle/
+     allure-results/
+     gradle/
+     build/
+     bin/
+     out/
+     logs/
+     target/
+     .classpath
+     .project
+     .settings/org.eclipse.buildship.core.prefs
+     .vscode
+     /gradlew
+     /gradlew.bat

@@ -36,7 +36,7 @@ public class UserPageAPITests {
 
     @Test
     @Feature("Регистрация пользователя")
-    @Story("Регистрация пользователя с цифровым паролем ")
+    @Story("Регистрация пользователя с цифровым паролем")
     @Owner("Aleksei Partolin")
     @Severity(SeverityLevel.BLOCKER)
     @Link(value = "Testing", url = "https://demowebshop.tricentis.com/register")

@@ -1,1 +1,0 @@
-{"uuid":"9a41624d-82d6-4512-924f-4d6b324ccd83","name":"Регистрация пользователя API тест","children":["33c758f8-a075-4a85-9f9d-853398a0e9b2"],"befores":[{"name":"setUpUser","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1666126566404,"stop":1666126566445}],"afters":[],"start":1666126566393,"stop":1666126568491}
