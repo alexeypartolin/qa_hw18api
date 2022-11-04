@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="API User tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-26T15:04:01" hostname="MacBook-Pro-Alexey.local" time="1.933">
-  <properties/>
-  <testcase name="Регистрация пользователя API тест" classname="demowebshop.tests.api.UserPageAPITests" time="1.933"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
